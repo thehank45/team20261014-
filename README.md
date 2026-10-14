@@ -3,4 +3,4 @@
 - gary: index.html
 - hank: style.css
 - chiao: script.js
-- jimbo: README.md 
+- jimbo: README.md
