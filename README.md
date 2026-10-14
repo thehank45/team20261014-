@@ -1,6 +1,6 @@
 # team20261014-
-- jay: team leader
-- gary: index.html
-- hank: style.css
-- chiao: script.js
-- jimbo: README.md
+- Jay: team leader
+- Gary: index.html
+- Hank: style.css
+- Chiao: script.js
+- Jimbo: README.md
